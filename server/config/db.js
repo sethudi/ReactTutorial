@@ -1,6 +1,8 @@
 const db ={
     'user':'books',
-    'password':'hello'
+    'password':'hello',
+    'host':'localhost',
+    'database':'books'
 }
 
 module.exports =db;
