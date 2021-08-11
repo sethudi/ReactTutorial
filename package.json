@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sethudi/ReactTutorial/issues"
   },
-  "homepage": "https://github.com/sethudi/ReactTutorial#readme"
+  "homepage": "https://github.com/sethudi/ReactTutorial#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
