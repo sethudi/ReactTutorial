@@ -11,7 +11,7 @@ function Header() {
         </ul>
 
         <ul className="header-right">
-            <li><Link to="/Create">Created</Link></li>
+            <li><Link to="/Create">Create</Link></li>
             <li><Link to="/">View</Link></li>
         </ul>
     </div>

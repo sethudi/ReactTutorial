@@ -32,7 +32,7 @@ class BookLibrary extends React.Component {
                 </tr>
             )
         });
-        console.log('render', this.state.books);
+        
         return (
             <div>
                 <table>
