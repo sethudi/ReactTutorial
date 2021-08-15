@@ -14,15 +14,19 @@ function App() {
         <Header />
 
         <Switch>
+          <Route path="/edit/:id">
+            <Book />
+          </Route>
+
           <Route exact path="/">
             <BookLibrary />
           </Route>
 
           <Route path="/Create">
-            <Book/>
+            <Book />
           </Route>
         </Switch>
-        
+
       </div>
     </Router>
 

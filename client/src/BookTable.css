@@ -1,0 +1,23 @@
+table{
+    border-spacing: 3em 1em;
+    margin-top: 1em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th{
+    padding-bottom: 1em;
+    text-align: left;
+}
+
+td:nth-child(1){
+    font-weight: 550;
+}
+
+td:nth-child(2){
+    font-style: italic;
+}
+
+svg {
+    color:rgba(0, 0, 0, 0.6);
+}
